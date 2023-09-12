@@ -56,11 +56,11 @@ Hola, soy Marirosa Vilcherrez!
   </a>
 </p>
 
-### 💻 Software and Tools
+### 💻 Software y Tools
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,stackoverflow,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,stackoverflow,vscode,linux&perline=14" />
   </a>
 </p>
 </br>
