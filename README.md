@@ -16,9 +16,9 @@ Hola, soy Marirosa Vilcherrez!
 💻 Soy estudiante Full Stack Developer en Holberston School
 📝 Tengo mucho interes en la tecnología, las criptomonedas y el blockchain
 🔭 Autodidacta 
-🌟 Lenguajes: C, Python
-🚩 Interesada en front end, mySQL y unittest
-🤔 En busqueda de oportunidades laborales en tecnología
+🌟 Lenguajes: C, Python, JavaScript
+🚩 Interesada en front end, mySQL y React
+💻 En busqueda de oportunidades laborales en tecnología
 </pre>
 </hr>
 
@@ -34,7 +34,7 @@ Hola, soy Marirosa Vilcherrez!
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,python,js&perline=14" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ Hola, soy Marirosa Vilcherrez!
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=flask,react&perline=14"/>
   </a>
 </p>
 </p>
@@ -59,7 +59,7 @@ Hola, soy Marirosa Vilcherrez!
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,stackoverflow,vscode,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,stackoverflow,vscode,linux,html,css&perline=14" />
   </a>
 </p>
 </br>
