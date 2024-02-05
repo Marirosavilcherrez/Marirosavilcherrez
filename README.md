@@ -13,7 +13,7 @@ Hola, soy Marirosa Vilcherrez!
 <hr>
 
 <pre>
-💻 Soy estudiante Full Stack Developer en Holberston School
+💻 Full Stack Developer, egresada de Holberston School
 📝 Tengo mucho interes en la tecnología, las criptomonedas y el blockchain
 🔭 Autodidacta 
 🌟 Lenguajes: C, Python, JavaScript
