@@ -6,7 +6,7 @@ Hola, soy Marirosa Vilcherrez!
 </h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Full+Stack;Full+Stack+Web+Developer+Student;%20Entusiasta%20de%20seguir%20aprendiendo%20&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;%20Entusiasta%20de%20seguir%20aprendiendo%20&center=true&width=380&height=45">
 	</a>
 </p>
 
